@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p-password, .p-icon-field{
+  @apply w-full !important;
+}
+
+.btn-primary {
+  @apply bg-blue-600 hover:bg-blue-700 px-6 py-2 text-white border border-blue-600;
+}
+
+.btn-secondary {
+  @apply border border-blue-600  hover:bg-blue-700 px-6 py-2 hover:text-white;
+}
+
+input {
+  @apply w-full border p-2 
+}
