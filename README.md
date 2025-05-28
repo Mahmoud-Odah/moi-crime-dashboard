@@ -41,9 +41,9 @@ Use the following credentials to log into the deployed application:
 
 ## ⚙️ Running Locally
 
+```bash
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/Mahmoud-Odah/moi-crime-dashboard.git
 cd moi-crime-dashboard
 
