@@ -49,15 +49,12 @@ cd moi-crime-dashboard
 
 ### 2. Install dependencies
 
-```bash
 npm install
 
 ### 3. Create a .env file
 
-```bash
 VITE_API_BASE_URL=
 
 ### 4. Run the development server
 
-```bash
 npm run dev
